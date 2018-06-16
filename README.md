@@ -1,2 +1,0 @@
-# warrantek
-học wordpress
