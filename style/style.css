@@ -1,0 +1,29 @@
+header .container .menu .logo img {
+  height: 75px;
+  width: 150px;
+  margin-top: 10px;
+  margin-bottom: 20px; }
+header .container .menu .navbar {
+  padding-top: 0px; }
+  header .container .menu .navbar .collapse {
+    justify-content: flex-end;
+    padding-top: 0px; }
+    header .container .menu .navbar .collapse ul {
+      margin-right: 0px !important;
+      padding-right: 7px; }
+      header .container .menu .navbar .collapse ul li {
+        padding: 3px;
+        padding-top: 40px;
+        margin: 8px;
+        margin-top: 0px !important;
+        text-transform: uppercase; }
+        header .container .menu .navbar .collapse ul li:hover {
+          background-color: blue;
+          border-radius: 0px 0px 8px 8px; }
+    header .container .menu .navbar .collapse button {
+      background: white;
+      margin-top: 32px; }
+header .container .slider .aa {
+  text-transform: uppercase !important; }
+
+/*# sourceMappingURL=style.css.map */
